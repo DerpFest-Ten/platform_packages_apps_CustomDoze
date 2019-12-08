@@ -20,10 +20,10 @@ import android.app.ActionBar;
 import android.app.Fragment;
 import android.content.Context;
 import android.os.Bundle;
-import android.support.v7.preference.PreferenceCategory;
-import android.support.v7.preference.Preference;
-import android.support.v14.preference.SwitchPreference;
-import android.support.v14.preference.PreferenceFragment;
+import androidx.preference.Preference;
+import androidx.preference.PreferenceCategory;
+import androidx.preference.PreferenceFragment;
+import androidx.preference.SwitchPreference;
 import android.preference.PreferenceActivity;
 import android.view.MenuItem;
 
